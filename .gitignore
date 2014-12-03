@@ -2,4 +2,3 @@
 *.o
 *.bin
 *.out
-!img/freedos.img
